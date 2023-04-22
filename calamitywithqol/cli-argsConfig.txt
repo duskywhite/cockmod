@@ -1,0 +1,1 @@
+-tmlsavedirectory /Users/MLK/Library/Application Support/Steam/steamapps/common/tModLoader/calamitywithqol/SaveData -steamworkshopfolder none
